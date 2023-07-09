@@ -17,7 +17,10 @@
      - ### Tech Stack
          - ### Firebase
              -  Authentication(Sign In With Google)
-          
+
+ - ## Functionalities
+    - User can sign in using google sign in
+    - User can logout using the logout button in the Side Menu
 
 ## Screenshots
 
